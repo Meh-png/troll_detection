@@ -1,0 +1,78 @@
+Document/*
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment directories
+env/
+venv/
+ENV/
+.venv/
+.ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Jupyter Notebook metadata
+*.ipynb-meta
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+*.egg-info/
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Configuration files and secrets
+*.env
+.env.local
+.env.*
+.vscode/
+.idea/
+*.code-workspace
+
+# Backup files
+*.bak
+*.swp
+*.tmp
+*.old
+
+# Output files
+*.out
+*.pdf
+*.html
+*.tex
+
+# Temporary files
+~$*
+
+# Data files
+*.csv
+*.tsv
+*.data
+*.dat
+*.db
+*.sqlite
+
+# Binary and model files
+*.h5
+*.model
+*.ckpt
+*.joblib
+*.pkl
+
+# Jupyter-generated files
+*.nbconvert.ipynb
+
+# Results or temporary notebook output
+output/
+results/
